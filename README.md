@@ -1,16 +1,61 @@
 ### Hi there 👋
 
-<!--
-**TonyWu3027/TonyWu3027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is ***Zhaoxuan "Tony" Wu***
+```python
+class AboutMe:
+  
+  def __init__(self):
+  
+    self.edu = (year.FIRST, BSc("Information Management for Business"), "University College London 🇬🇧")
 
-Here are some ideas to get you started:
+    self.skills = [
+      Java, Python, JavaScript, 
+      Solidity, Racket, React, Tableau, 
+      Blockchian, Flask, Django, Mapbox, 
+      ES6, Ethereum, Frontend, Backend, 
+      wxml, AutoTesting, Selenium,
+      madchinea_learening, and_a_lot_more]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    self.from = 🇨🇳.shenzhen
+
+  def learn_new_skills(self, new_skill : ProgrammingLang | Framework | Tools | Collab | ...) -> None:
+    self.skills.append(new_skill)
+    
+  @living_as_a_developer
+  def everyday():
+     work_hard()
+     play_hard()
+     self.learn_new_skills()
+     sleep()
+```
+
+### 🔭 I’m currently working on
+
+- Frontend Engineer on contract 🔮
+- Test Engineer Intern at Hundsun Ayers Technologies Limited (Shenzhen) 🤖
+- Implementing my website
+- Enjoy my summer 💦
+
+### 🌱 I’m currently learning 
+- C and C++
+- ***Fluent Python***
+- ***Clean Code***
+- Algs4
+- IoT and hardware hack
+- Vue
+
+### 👯 I’m looking to collaborate on 
+- Frontend engineerin with React
+- Python projects
+- Data Science projects
+- Hardware hacks
+- Anything cool🔥
+
+### 💬 Ask me about 
+I don't know lol, but will give it a shot
+
+### 📫 How to reach me:
+zhaoxuan.wu@outlook.com
+
+### ⚡ Fun fact: 
+404
